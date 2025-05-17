@@ -26,27 +26,31 @@ A secure full-stack application using **ASP.NET Core Web API**, **Entity Framewo
 - 📥 Tokens stored and verified against DB for extra security
 - 
 ---
-## 📸 Screenshots
+## 📸 Screensho
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/screenshots/register.png?raw=true" width="400"/><br/>
-      <sub><b>📝 Registration Form (Bootstrap)</b></sub>
+      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/Screenshots/Screenshot%202025-05-17%20144758.png?raw=true" width="400"/><br/>
+      <sub><b>📝 Registration Form</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/screenshots/token-response.png?raw=true" width="400"/><br/>
-      <sub><b>📥 Token Displayed After Successful Register</b></sub>
+      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/Screenshots/Screenshot%202025-05-17%20144812.png?raw=true" width="400"/><br/>
+      <sub><b>📥 Token Generated After Register</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/screenshots/product-added.png?raw=true" width="400"/><br/>
-      <sub><b>📦 Product Added (Secured by JWT)</b></sub>
+      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/Screenshots/Screenshot%202025-05-17%20144847.png?raw=true" width="400"/><br/>
+      <sub><b>📦 Product Added Successfully</b></sub>
     </td>
-    
+    <td align="center">
+      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/Screenshots/Screenshot%202025-05-17%20145533.png?raw=true" width="400"/><br/>
+      <sub><b>🔐 Token Stored in TokenMaster Table</b></sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
