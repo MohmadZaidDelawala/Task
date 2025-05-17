@@ -4,23 +4,6 @@ A secure full-stack application using **ASP.NET Core Web API**, **Entity Framewo
 
 ---
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/screenshots/register.png?raw=true" width="400"/><br/>
-      <sub><b>📝 Bootstrap Registration Form</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/MohmadZaidDelawala/Task/blob/main/screenshots/token-response.png?raw=true" width="400"/><br/>
-      <sub><b>📥 Token Received After Registration</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Technologies Used
 
 | Area        | Tools/Frameworks                     |
