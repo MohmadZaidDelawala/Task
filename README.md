@@ -32,21 +32,21 @@ A secure full-stack application using **ASP.NET Core Web API**, **Entity Framewo
   <tr>
     <td align="center">
       <img src="https://github.com/MohmadZaidDelawala/Task/blob/MBH/Screenshots/Screenshot%202025-05-17%20144758.png?raw=true" width="400"/><br/>
-      <sub><b>📝 Registration Form</b></sub>
+      <sub><b>📝 Login Form</b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/MohmadZaidDelawala/Task/blob/MBH/Screenshots/Screenshot%202025-05-17%20144812.png?raw=true" width="400"/><br/>
-      <sub><b>📥 Token Generated After Register</b></sub>
+      <sub><b>📥 Registration Form</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/MohmadZaidDelawala/Task/blob/MBH/Screenshots/Screenshot%202025-05-17%20144847.png?raw=true" width="400"/><br/>
-      <sub><b>📦 Product Added Successfully</b></sub>
+      <sub><b>📦 Token generate Successfully</b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/MohmadZaidDelawala/Task/blob/MBH/Screenshots/Screenshot%202025-05-17%20145533.png?raw=true" width="400"/><br/>
-      <sub><b>🔐 Token Stored in TokenMaster Table</b></sub>
+      <sub><b>🔐 Product added Sucessfully with added by entry in datatable.</b></sub>
     </td>
   </tr>
 </table>
